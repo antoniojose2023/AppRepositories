@@ -32,11 +32,12 @@
   <p align="left">MVVM</p>
   <img height="60" width="60" src="https://img.icons8.com/nolan/64/layers.png"/>
   <p aling="left">O padrão de projeto Model-View-ViewModel é uma arquitetura para desenvolvimento de software mais robusta, facilitando assim, na compreensão do código e manuntenção do mesmo</p>
+  <br><br>
   
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   
    <p aling="left">Neste projeto consumimos a api do gitHub. No qual nos possibilitou expor nossos projetos através de um app <a href="https://docs.github.com/pt/rest">Acesse aqui a api gitHub.</a></p>
-  <br><br><br><br>
+  <br><br>
   
   <img height="60" width="60" src="https://img.icons8.com/color/48/undefined/network.png"/>
   <p aling="left">Para facilitar no desenvolvimento do App foi utilizada a biblioteca Koin, através de injenção de dependência conseguimos prover componentes de maneira mais simples para nosso app <a href="https://docs.github.com/pt/rest">Acesse aqui a documentação Koin.</a></p>
