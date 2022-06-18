@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Repositories</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="title_screen_detail">Detalhes Repositório</string>
+</resources>
