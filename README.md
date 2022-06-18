@@ -30,6 +30,7 @@
 <div align="left" valign="top"><br>
   <p align="left"> * Arquitetura</p><br>
   <p align="left">MVVM</p>
+  <img height="60" width="60" src="https://img.icons8.com/nolan/64/layers.png"/>
   <p aling="left">O padrão de projeto Model-View-ViewModel é uma arquitetura para desenvolvimento de software mais robusta, facilitando assim, na compreensão do código e manuntenção do mesmo</p>
   
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
