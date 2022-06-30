@@ -1,5 +1,7 @@
 ## AppRepositories
 
+<div align="center">![ezgif com-gif-maker](https://user-images.githubusercontent.com/92251761/176576410-72525cb0-0654-404e-9b77-a9dca4b567ed.gif)</div>
+
 <div>
   <p align="center">Este projeto foi baseado no Lab da DIO <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" /></p>
   <p align="center">Neste App foi implementado o que há de mais moderno no desenvolvimento mobile</p>
@@ -59,7 +61,6 @@
 <hr>  
 </div>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/92251761/176576410-72525cb0-0654-404e-9b77-a9dca4b567ed.gif)
 
 
 <div align="center">
